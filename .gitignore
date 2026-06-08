@@ -1,0 +1,16 @@
+# C++ 可执行程序
+*.exe
+*.out
+
+# 编译中间临时文件
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# VS Code 本地调试配置（你的中文路径配置别人用不了，严禁上传）
+.vscode/
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
